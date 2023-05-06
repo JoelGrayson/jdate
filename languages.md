@@ -1,0 +1,10 @@
+- [x] Bash
+- [x] JS
+- [x] TS
+- [x] Python
+- [x] Perl
+- [x] Java
+- [ ] C
+- [ ] C++
+- [ ] Lua
+- [ ] Haskell
