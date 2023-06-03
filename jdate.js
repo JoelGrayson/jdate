@@ -8,3 +8,5 @@ function jdate() {
 
 // One liner:
 // `${new Date().getMonth()+1}.${new Date().getDate()}.${new Date().getFullYear()}`
+
+console.log(jdate());

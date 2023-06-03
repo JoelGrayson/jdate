@@ -9,3 +9,5 @@ function jdate(date=new Date()): jdateT {
     const year: yearT=date.getFullYear();
     return `${month}.${day}.${year}`;
 }
+
+console.log(jdate());

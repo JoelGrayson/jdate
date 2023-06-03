@@ -5,6 +5,6 @@ def jdate():
     year=now.strftime("%y")
     month=str(int(now.strftime("%m"))) #str(int($_)) so no
     day=str(int(now.strftime("%d")))
-    print(f'{month}.{day}.{year}')
+    return f'{month}.{day}.{year}'
 
-jdate()
+print(jdate())
