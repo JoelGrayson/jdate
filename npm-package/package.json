@@ -1,12 +1,12 @@
 {
     "name": "joeldate",
-    "version": "1.0.2",
-    "description": "Returns today's date in the format <month>.<day>.<year>",
+    "version": "1.0.3",
+    "description": "Returns a date in the format <month>.<day>.<year>",
     "main": "./jdate.js",
     "module": "./jdate.js",
     "types": "./jdate.d.ts",
     "scripts": {
-      "rollup": "rollup -c"
+      "publish": "npm publish"
     },
     "author": "Joel Grayson <joel@joelgrayson.com> (https://github.com/JoelGrayson)",
     "license": "MIT"
