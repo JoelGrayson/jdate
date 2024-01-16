@@ -1,14 +1,15 @@
 {
     "name": "joeldate",
-    "version": "1.0.3",
+    "version": "2.0.2",
     "description": "Returns a date in the format <month>.<day>.<year>",
     "main": "./jdate.js",
     "module": "./jdate.js",
     "types": "./jdate.d.ts",
-    "scripts": {
-      "publish": "npm publish"
-    },
+    "scripts": { },
     "author": "Joel Grayson <joel@joelgrayson.com> (https://github.com/JoelGrayson)",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JoelGrayson/jdate"
+    },
     "license": "MIT"
 }
-  
